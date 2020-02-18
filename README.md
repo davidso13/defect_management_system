@@ -30,6 +30,6 @@
 	2. Apply various overfitting regularization method.
 
 ## Contributions
-	1. Suggest the efficient construction management system. <br>
-	2. Improve the quality of buildings using effective system. <br>
-	3. Establish a dataset in the defect management system. <br>
+	1. Suggest the efficient construction management system.
+	2. Improve the quality of buildings using effective system.
+	3. Establish a dataset in the defect management system.
