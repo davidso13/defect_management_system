@@ -21,15 +21,15 @@
 - However, in the defect checking model, MobileNets shows the highest one. <br><br>
 - But the problem is that they show the quiet low accuracy. So, there has to be an effort to improve the accuracy. There are tree limitations in this project and the following two methods might improve the F1 score. <br>
 	
-#### - Limitations
-	1. Not consider a domain transfer learning.<br>
-	2. Limitation of a dataset.<br>
-	3. Property of continuous construction phase.<br><br>
-#### &emsp - Improvement/Further Investigation 
-&nbsp 1. Apply a domain transfer learning.<br>
-&nbsp 2. Apply various overfitting regularization method.<br>
+### - Limitations
+	1. Not consider a domain transfer learning.
+	2. Limitation of a dataset.
+	3. Property of continuous construction phase.
+### - Improvement/Further Investigation 
+	1. Apply a domain transfer learning.
+	2. Apply various overfitting regularization method.
 <br>
 ## Contributions
-&nbsp 1. Suggest the efficient construction management system. <br>
-&nbsp 2. Improve the quality of buildings using effective system. <br>
-&nbsp 3. Establish a dataset in the defect management system. <br>
+	1. Suggest the efficient construction management system. <br>
+	2. Improve the quality of buildings using effective system. <br>
+	3. Establish a dataset in the defect management system. <br>
