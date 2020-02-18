@@ -28,7 +28,7 @@
 ### - Improvement/Further Investigation 
 	1. Apply a domain transfer learning.
 	2. Apply various overfitting regularization method.
-<br>
+
 ## Contributions
 	1. Suggest the efficient construction management system. <br>
 	2. Improve the quality of buildings using effective system. <br>
